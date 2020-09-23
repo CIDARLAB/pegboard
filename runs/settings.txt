@@ -1,0 +1,2 @@
+sample	n	k	graph_path	lib_path	in_nodes	out_nodes	output_path
+216	30	3	/home/jackson/code/pegbox/runs/graph	/home/jackson/code/pegbox/runs/lib	0,1,2	3	/home/jackson/code/pegbox/runs/results
